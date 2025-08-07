@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[7455],{37455:(e,r,s)=>{s.r(r),s.d(r,{default:()=>a});var t=s(49367),l=s(12474),n=s(70579);function a(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(t.mg,{children:(0,n.jsx)("title",{children:" Game: Order List"})}),(0,n.jsx)(l.p,{})]})}}}]);
+//# sourceMappingURL=7455.cca0b117.chunk.js.map

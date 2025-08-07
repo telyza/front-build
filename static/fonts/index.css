@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'MyriadVF';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/static/fonts/MyriadVF-LightCondensed.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MyriadVF';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/static/fonts/MyriadVF-LightCondensedItalic.ttf') format('truetype');
+  font-display: swap;
+}

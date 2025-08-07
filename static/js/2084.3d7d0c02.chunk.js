@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[2084],{92084:(e,n,t)=>{t.r(n),t.d(n,{default:()=>l});var a=t(49367),r=t(8063),s=t(70579);function l(){return(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(a.mg,{children:(0,s.jsx)("title",{children:" Game: Create a new invoice"})}),(0,s.jsx)(r.Hz,{})]})}}}]);
+//# sourceMappingURL=2084.3d7d0c02.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[539],{90539:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var r=t(49367),l=t(70356),n=t(70579);function a(){return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(r.mg,{children:(0,n.jsx)("title",{children:" Game: Tour List"})}),(0,n.jsx)(l.ST,{})]})}}}]);
+//# sourceMappingURL=539.56e5779f.chunk.js.map

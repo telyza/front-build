@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[4541],{44541:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var n=t(49367),c=t(68713),a=t(70356),l=t(70579);function i(){const e=(0,c.g)(),{id:s}=e;return(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)(n.mg,{children:(0,l.jsx)("title",{children:" Game: Analytics"})}),(0,l.jsx)(a.sW,{id:"".concat(s)})]})}}}]);
+//# sourceMappingURL=4541.3ab3e7a6.chunk.js.map

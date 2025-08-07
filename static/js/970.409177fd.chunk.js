@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[970],{40970:(e,t,s)=>{s.r(t),s.d(t,{default:()=>i});var n=s(49367),c=s(68713),r=s(23820),a=s(70579);function i(){const e=(0,c.g)(),{id:t}=e;return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(n.mg,{children:(0,a.jsx)("title",{children:" Game: User Edit"})}),(0,a.jsx)(r.zw,{id:"".concat(t)})]})}}}]);
+//# sourceMappingURL=970.409177fd.chunk.js.map

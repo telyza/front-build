@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[8553],{28553:(e,t,s)=>{s.r(t),s.d(t,{default:()=>l});var n=s(49367),r=s(68713),a=s(12474),c=s(70579);function l(){const e=(0,r.g)(),{id:t}=e;return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(n.mg,{children:(0,c.jsx)("title",{children:" Game: Order Details"})}),(0,c.jsx)(a.I,{id:"".concat(t)})]})}}}]);
+//# sourceMappingURL=8553.8a161785.chunk.js.map

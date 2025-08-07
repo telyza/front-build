@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktelyza=self.webpackChunktelyza||[]).push([[9264],{49264:(e,s,t)=>{t.r(s),t.d(s,{default:()=>a});var l=t(49367),n=t(24265),r=t(70579);function a(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(l.mg,{children:(0,r.jsx)("title",{children:" Game: Job List"})}),(0,r.jsx)(n.do,{})]})}}}]);
+//# sourceMappingURL=9264.09b74461.chunk.js.map
